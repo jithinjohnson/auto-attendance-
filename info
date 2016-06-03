@@ -1,0 +1,4 @@
+working of this code is like.we shuld pass the video and the database pics as a numpy array file.
+from video frames are caputered and by using the classifier the faces are decteted and they are saved to a folder 'Faces'.finale we run 
+this faces folder with reconition algorithm.
+uses opencv module
